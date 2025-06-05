@@ -1,5 +1,5 @@
 {
-  "name": "@karinjs/adapter-discordbot",
+  "name": "@karinjs/plugin-adapter-discordbot",
   "version": "1.0.0",
   "author": "karin",
   "type": "module",
