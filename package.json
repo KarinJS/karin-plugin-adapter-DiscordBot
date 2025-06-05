@@ -1,6 +1,6 @@
 {
   "name": "@karinjs/adapter-discordbot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "karin",
   "type": "module",
   "main": "lib/index.js",
