@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/KarinJS/karin-plugin-adapter-DiscordBot/compare/v1.0.0...v1.0.1) (2025-06-05)
+
+
+### Bug Fixes
+
+* 更新包名称以符合新的命名约定 ([c654c44](https://github.com/KarinJS/karin-plugin-adapter-DiscordBot/commit/c654c44b4fefbca272a7c39903754adc1269d42a))
+
 ## 1.0.0 (2025-06-05)
 
 
